@@ -304,3 +304,7 @@ def generate_table(stats, headers):
         height=900)
 
     fig.show()
+
+
+if __name__ == "__main__":
+    print(" ")
