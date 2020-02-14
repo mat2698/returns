@@ -6,7 +6,6 @@ setup(name='returns',
     license='MIT',
     description='An example python package',
     long_description=open('README.txt').read(),
-    install_requires=['numpy'],
     url='https://github.com/mat2698/returns',
     author='Bill Mills',
     author_email='myemail@example.com')
